@@ -14,4 +14,4 @@ https://nodejs.org/
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/quiz-games.git
+git clone https://github.com/ShikharNegi0515/quiz-games.git
